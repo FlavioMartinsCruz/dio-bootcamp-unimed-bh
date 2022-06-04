@@ -1,4 +1,4 @@
-# Controle de conteúdos finalizados na plataforma da DIO  
+# Controle de conteúdos apresentados na plataforma da DIO  
 ### Módulo 0 - Prepare-se para a Jornada  
 ✅ Conheça as Oportunidades da DIO  
 ✅ Seja Protagonista Neste Bootcamp  
