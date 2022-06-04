@@ -12,6 +12,10 @@ ul li a{
   text-decoration: none;
 }
 
+ul li a:hover{
+  color: #f78d48;
+}
+
 div img{
   display: block;
   width: 100%;
@@ -81,10 +85,17 @@ header .menu{
   margin: 10px 0;
 }
 
+.btn:hover{
+  background-color: #f78d48;
+  color: #122A57;
+  font-weight: bold;
+}
+
 #quem-somos{
   flex-direction: row-reverse;
   align-items: center;
   justify-content: space-between;
+  gap: 30px
 }
 
 #quem-somos h2{
@@ -109,6 +120,7 @@ header .menu{
   margin-bottom: 10px;
   width: 90%;
   text-align: justify;
+  color: #122A57;
 }
 
 #quem-somos img{
@@ -159,7 +171,12 @@ header .menu{
   color: #122A57;
   font-weight: bold;
   font-size: 12px;
-  
+}
+
+.item-servico a:hover{
+  background-color: #f78d48;
+  color: #122A57;
+  font-weight: bold;
 }
 
 .item-servico p{
@@ -247,10 +264,19 @@ footer{
   background-color: #122A57;
   justify-content: space-around;
   height: 70px;
-  color: #fff;
   display: flex;
   align-items: center;
   margin-top: 50px;
+}
+
+footer a, p{
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a span:hover{
+  color: #f78d48;
+  font-weight: bold;
 }
 
 @media(max-width:992px){
@@ -298,7 +324,7 @@ footer{
 
   #quem-somos p{
     max-width: 600px;
-    margin: 0 auto 15px auto;
+    margin: 0 auto 30px auto;
     text-align: justify;
   }
 
@@ -339,7 +365,7 @@ footer{
     font-size: 14px;
   }
   
-  footer p:nth-child(1){
+  footer a:nth-child(1){
     margin-top: 10px;
   }
   .conteiner-externo{
