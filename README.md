@@ -25,4 +25,4 @@ ___
 
 ___
 
-O controle da minha evolução nos estudos pode ser acompanhado por [aqui](https://github.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/blob/0f74e7d5a6de7be88db6e20910a3b53415ae8fea/controle-conteudos-finalizados.md). 🙂
+O controle da minha evolução nos estudos pode ser acompanhado por [aqui](https://github.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/blob/master/controle-conteudos-finalizados.md). 🙂
