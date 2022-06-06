@@ -13,7 +13,7 @@ ___
 
 ✅ Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-⬜ Recriando a página inicial do Instagram
+✅ Recriando a página inicial do Instagram
 
 ⬜ Introdução Prática ao TypeScript
 

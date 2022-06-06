@@ -14,7 +14,18 @@
 ✅ Primeiros passos para desenvolvimento web  
 ✅ Introdução a criação de websites com HTML5 e CSS3  
 ✅ Posicionando elementos com Flexbox em CSS  
-⬜ Recriando a página inicial do Instagram
+✅ Recriando a página inicial do Instagram  
+
+### Módulo III - Conhecendo a Linguagem de Programação JavaScript9 atividades
+⬜ Introdução ao JavaScript  
+⬜ Sintaxe e Operadores  
+⬜ Sintaxe Básica em JavaScript  
+⬜ Variáveis e Tipos  
+⬜ Trabalhando com Módulos em JavaScript  
+⬜ Funções  
+⬜ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces  
+⬜ Desafios Iniciais Js - Unimed BH  
+⬜ Introdução Prática ao TypeScript  
 
 ... Continua 🙂
 
