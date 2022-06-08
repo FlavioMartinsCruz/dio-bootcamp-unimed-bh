@@ -4,6 +4,6 @@ Design baseado no trabalho "Instagram Login Redesign", disponível [nesta págin
   
   Não foi feita uma cópia fiel do design apresentado, visto que implementei alguns recursos demonstrados em aula da DIO, e  informações que procurei na internet.
   
-  ![Alt Teste](/img/Instagram.gif)
+  ![](./img/Instagram.gif)
 
 
