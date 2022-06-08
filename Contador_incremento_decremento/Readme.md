@@ -6,6 +6,4 @@ Adicionalmente, eu pesquisei na internet e implementei como ocultar/exibir botõ
   
 Para treinar o CSS, eu editei tudo do zero, não aproveitando o código fornecido para a aula.  
   
-Observe o gif abaixo:  
-  
-  !Contador](/img/Contador.gif)
+![Alt contador](/img/contador.gif)
