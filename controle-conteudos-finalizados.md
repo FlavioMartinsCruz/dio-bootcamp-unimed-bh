@@ -17,12 +17,12 @@
 ✅ Recriando a página inicial do Instagram  
 
 ### Módulo III - Conhecendo a Linguagem de Programação JavaScript9 atividades
-⬜ Introdução ao JavaScript  
-⬜ Sintaxe e Operadores  
-⬜ Sintaxe Básica em JavaScript  
-⬜ Variáveis e Tipos  
-⬜ Trabalhando com Módulos em JavaScript  
-⬜ Funções  
+✅ Introdução ao JavaScript  
+✅ Sintaxe e Operadores  
+✅ Sintaxe Básica em JavaScript  
+✅ Variáveis e Tipos  
+✅ Trabalhando com Módulos em JavaScript  
+✅ Funções  
 ⬜ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces  
 ⬜ Desafios Iniciais Js - Unimed BH  
 ⬜ Introdução Prática ao TypeScript  
