@@ -23,8 +23,8 @@
 ✅ Variáveis e Tipos  
 ✅ Trabalhando com Módulos em JavaScript  
 ✅ Funções  
-⬜ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces  
-⬜ Desafios Iniciais Js - Unimed BH  
+✅ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces  
+✅ Desafios Iniciais Js - Unimed BH  
 ⬜ Introdução Prática ao TypeScript  
 
 ... Continua 🙂
