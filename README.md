@@ -15,7 +15,7 @@ ___
 
 ✅ Recriando a página inicial do Instagram
 
-⬜ Introdução Prática ao TypeScript
+✅ Introdução Prática ao TypeScript
 
 ⬜ Como criar um front-end de um e-commerce utilizando Angular
 

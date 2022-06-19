@@ -25,7 +25,7 @@
 ✅ Funções  
 ✅ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces  
 ✅ Desafios Iniciais Js - Unimed BH  
-⬜ Introdução Prática ao TypeScript  
+✅ Introdução Prática ao TypeScript  
 
 ... Continua 🙂
 
