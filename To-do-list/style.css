@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+  display: flex;
+  margin: 20px;  
+  height: 90vh;
+}
+
+main{
+  display: flex;
+  gap: 60px;
+  margin: 0 auto;
+}
+
+#tarefas-urgentes, #tarefas-importantes {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  
+  min-height: 500px;
+  width: 350px;
+  margin-top: 20px;
+  border: 2px solid  #B1D34B;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 10px 10px 20px rgba(147, 153, 176, 0.3);
+}
+
+h2{
+  color: #00995D;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#formulario-entrada-urgente, #formulario-entrada-importante{
+  display: flex;
+  gap: 20px;
+}
+
+input {
+  text-align: center;
+  border: 2px solid  #B1D34B;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+input:focus{
+  outline: none;
+  border: 2px solid  #B1D34B;
+}
+
+button {
+  text-align: center;
+  color: #FFF;
+  border: 2px solid #F47920;
+  background-color: #F47920;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+
+button:hover{
+  background-color: #00995D;
+  border-color: #00995D;
+}
+
+.tarefa-urgente, .tarefa-importante {
+  display: flex;
+  gap: 10px;
+margin-top: 10px;
+  color: #00995D;
+  font-size: 15px;
+}
+
+:checked + marcador-urgente, :checked + marcador-importante {
+  text-decoration: line-through;
+  color: #5B5C65;
+}
+
+@media (max-width: 830px) {
+  main{
+  flex-direction: column;
+  gap: 10px;
+  }
+  #tarefas-urgentes, #tarefas-importantes{
+    min-height: 250px;
+    height: 50%;
+  }
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>To-do list (lista de tarefas)</title>
+</head>
+<body>
+  <main>
+    <div id="tarefas-urgentes">
+      <h2>To-do list: urgentes</h2>
+      <div>
+          <form id="formulario-entrada-urgente">
+              <input id="entrada-urgente" name="tarefa" autocomplete="off" required maxlength="20" placeholder="Escreva sua tarefa"/>
+              <button id="botao-urgente" type="submit">Adicionar</button>
+          </form>
+          <div id="lista-tarefas-urgentes"></div>
+        </div>
+    </div>
+    <div id="tarefas-importantes">
+      <h2>To-do list: importantes</h2>
+      <div>
+          <form id="formulario-entrada-importante">
+              <input id="entrada-importante" name="tarefa" autocomplete="off" maxlength="20" placeholder="Escreva sua tarefa"/>
+              <button id="botao-importante" type="submit">Adicionar</button>
+          </form>
+          <div id="lista-tarefas-importantes"></div>
+        </div>
+    </div>
+  </main>
+      <script src="scripts.js"></script>
+    </body>
+</html>
