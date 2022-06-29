@@ -20,19 +20,19 @@ Além desses três pontos adicionei mais alguns recursos para melhorar a experi�
 #### Imagens  
 Aspecto final:  
 <!-- ![](./assets/To-do-1.png)   -->
-<img src="assets/To-do-1.png" width="500" />  
+<img src="https://raw.githubusercontent.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/master/To-do-list/assets/To-do-1.PNG" width="500" />  
   
 Responsividade:  
 <!-- ![](./assets/To-do-2.png)   -->
-<img src="assets/To-do-2.png" height="450" />  
+<img src="https://github.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/blob/master/To-do-list/assets/To-do-2.PNG?raw=true" height="450" />  
     
 *maxlength="20"* para controle no *input*:  
 <!-- ![](./assets/To-do-4.png)   -->
-<img src="assets/To-do-4.png" width="500" />  
+<img src="https://github.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/blob/master/To-do-list/assets/To-do-4.PNG?raw=true" width="500" />  
   
 Dois tipos de validação, como descrito no texto acima:  
 <!-- ![](./assets/To-do-3.png)   -->
-<img src="assets/To-do-3.png" width="500" />  
+<img src="https://github.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/blob/master/To-do-list/assets/To-do-3.PNG?raw=true" width="500" />  
 
 Gif mostrando a validação de entrada e o *hover* no botão:   
-<img src="./assets/To-do-list.gif" width="500" />  
+<img src="https://github.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/blob/master/To-do-list/assets/To-do-list.gif?raw=true" width="500" />  
