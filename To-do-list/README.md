@@ -19,18 +19,20 @@ Além desses três pontos adicionei mais alguns recursos para melhorar a experi�
 
 #### Imagens  
 Aspecto final:  
-<!-- ![](./assets/To-do-1.png) -->
-<img src="./assets/To-do-1.png" width="500">  
+![](./assets/To-do-1.png)  
+<!-- <img src="./assets/To-do-1.png" width="500">   -->
   
 Responsividade:  
-<!-- ![](./assets/To-do-2.png) -->
-<img src="./assets/To-do-2.png" height="450">  
+![](./assets/To-do-2.png)  
+<!-- <img src="./assets/To-do-2.png" height="450">   -->
     
 *maxlength="20"* para controle no *input*:  
-<img src="./assets/To-do-4.png" width="500">  
+![](./assets/To-do-4.png)  
+<!-- <img src="./assets/To-do-4.png" width="500">   -->
   
 Dois tipos de validação, como descrito no texto acima:  
-<img src="./assets/To-do-3.png" width="500">  
+![](./assets/To-do-3.png)  
+<!-- <img src="./assets/To-do-3.png" width="500">   -->
 
 Gif mostrando a validação de entrada e o *hover* no botão:   
 <img src="./assets/To-do-list.gif" width="500">  
