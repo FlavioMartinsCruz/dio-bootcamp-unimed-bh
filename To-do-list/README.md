@@ -16,8 +16,12 @@ Além desses três pontos adicionei mais alguns recursos para melhorar a experi�
   b) Com javascript, após pesquisar na internet, alterando o *placeholder*, *borderColor* e *backgroundColor*, para a lista de itens importantes;  
 3) Limitação no número de caracteres no *input*, usando *maxlength="20"*;  
 4) Adição de responsividade para telas menores.  
-
-#### Imagens  
+  
+## Deploy  
+Esse foi o primeiro deploy que fiz na vida!  
+Acesse o link **[aqui](https://dio-bootcamp-unimed-bh.vercel.app/)**.  
+  
+### Imagens  
 Aspecto final:  
 <!-- ![](./assets/To-do-1.png)   -->
 <img src="https://raw.githubusercontent.com/FlavioMartinsCruz/dio-bootcamp-unimed-bh/master/To-do-list/assets/To-do-1.PNG" width="500" />  
