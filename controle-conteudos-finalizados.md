@@ -35,10 +35,10 @@
 ✅ Explorando Diretivas com Angular  
 ✅ Implementando Serviços e Injeção de Dependências com Angular  
 ✅ Introdução a Serviços Assíncronos no Angular  
-⬜️ O Poder do Data Binding no Angular  
-⬜️ Trabalhando com Componentes em Angular  
-⬜️ Criação de Pipes com Angular  
-⬜️ Desafios Intermediários Js - Unimed BH  
+✅ O Poder do Data Binding no Angular  
+✅ Trabalhando com Componentes em Angular  
+✅ Criação de Pipes com Angular  
+✅ Desafios Intermediários Js - Unimed BH  
 ⬜️ Como criar um front-end de um e-commerce utilizando Angular  
 
 ### Módulo V - Bancos de Dados Relacionais (SQL) 🎯  
