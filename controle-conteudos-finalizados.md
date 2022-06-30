@@ -39,12 +39,26 @@
 ✅ Trabalhando com Componentes em Angular  
 ✅ Criação de Pipes com Angular  
 ✅ Desafios Intermediários Js - Unimed BH  
-⬜️ Como criar um front-end de um e-commerce utilizando Angular  
+✅ Como criar um front-end de um e-commerce utilizando Angular  
 
-### Módulo V - Bancos de Dados Relacionais (SQL) 🎯  
+### Módulo V - Bancos de Dados Relacionais (SQL)  
 ✅ MySql - Trabalhando com as suas primeiras tabelas  
 ✅ MySql - Explorando relacionamentos com workbench  
 ✅ MySQL - Consultas com Join  
 
-... Continua 🙂
-
+### Módulo VI - Dominando o Ecossistema .NET com C#  
+⬜️ Introdução ao Ecossistema .NET e Documentação  
+⬜️ Criando o ambiente de desenvolvimento  
+⬜️ Primeiros passos com .NET  
+⬜️ Fundamentos de Coleções e LINQ com .NET  
+⬜️ Tratamento de Erro em C# com Exceptions  
+⬜️ Trabalhando com Arquivos e Streams em C#  
+⬜️ Programando com Orientação a Objeto com C#  
+⬜️ Construtores, Propriedades, Delegates e Eventos em .NET  
+⬜️ Introdução a Clean Code e SOLID com .NET e C#  
+⬜️ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#  
+⬜️ Conhecendo os Principais Protocolos de Comunicação da Internet  
+⬜️ Desenvolvimento de aplicações com .NET  
+⬜️ Configuração da arquitetura back-end com .NET Core  
+⬜️ Criando um APP simples de cadastro de séries em .NET  
+⬜️ Desafios Iniciais C# - Unimed BH  

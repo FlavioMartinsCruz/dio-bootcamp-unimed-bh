@@ -17,7 +17,7 @@ ___
 
 ✅ Introdução Prática ao TypeScript
 
-⬜ Como criar um front-end de um e-commerce utilizando Angular
+✅ Como criar um front-end de um e-commerce utilizando Angular
 
 ⬜ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
 
