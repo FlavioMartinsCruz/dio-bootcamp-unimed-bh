@@ -1,0 +1,29 @@
+.btn{
+  background-color: #00995D;
+  border: none;
+}
+
+.card{
+  border-color: #B1D34B;
+  margin-top: 25px;
+}
+
+.card-header{
+  background-color: #d8eaa13a;
+  border-color: #B1D34B;
+  color: #00995D;
+  font-size: 18px;
+  padding: 5px 15px;
+}
+
+input{
+  margin: 10px 0;
+}
+
+label{
+  color: #00995D;
+}
+
+.btn-sm:hover{
+background-color: #F47920;
+}

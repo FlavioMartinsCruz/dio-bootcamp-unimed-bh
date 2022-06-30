@@ -1,0 +1,17 @@
+.btn{
+  background-color: #00995D;
+  color: #FFF;
+  border: none;
+}
+
+.btn:hover{
+  background-color: #F47920;
+}
+
+.me-3{
+  color: #00995D;
+}
+
+.me-3:hover{
+  color: #F47920;
+}
