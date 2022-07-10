@@ -71,7 +71,7 @@ button:hover{
 .tarefa-urgente, .tarefa-importante {
   display: flex;
   gap: 10px;
-margin-top: 10px;
+  margin-top: 10px;
   color: #00995D;
   font-size: 15px;
 }
@@ -106,4 +106,7 @@ margin-top: 10px;
     padding: 5px;
   }
 
+  .tarefa-urgente input, .tarefa-importante input{
+    width: 15px;
+  }
 }
