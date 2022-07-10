@@ -24,7 +24,7 @@ main{
   flex-direction: column;
   
   min-height: 500px;
-  width: 350px;
+  width: 100%;
   margin-top: 20px;
   border: 2px solid  #B1D34B;
   border-radius: 10px;

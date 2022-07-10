@@ -47,18 +47,18 @@
 ✅ MySQL - Consultas com Join  
 
 ### Módulo VI - Dominando o Ecossistema .NET com C#  
-⬜️ Introdução ao Ecossistema .NET e Documentação  
-⬜️ Criando o ambiente de desenvolvimento  
-⬜️ Primeiros passos com .NET  
-⬜️ Fundamentos de Coleções e LINQ com .NET  
+✅ Introdução ao Ecossistema .NET e Documentação  
+✅ Criando o ambiente de desenvolvimento  
+✅ Primeiros passos com .NET  
+✅ Fundamentos de Coleções e LINQ com .NET  
 ⬜️ Tratamento de Erro em C# com Exceptions  
 ⬜️ Trabalhando com Arquivos e Streams em C#  
 ⬜️ Programando com Orientação a Objeto com C#  
 ⬜️ Construtores, Propriedades, Delegates e Eventos em .NET  
 ⬜️ Introdução a Clean Code e SOLID com .NET e C#  
 ⬜️ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#  
-⬜️ Conhecendo os Principais Protocolos de Comunicação da Internet  
+✅ Conhecendo os Principais Protocolos de Comunicação da Internet  
 ⬜️ Desenvolvimento de aplicações com .NET  
 ⬜️ Configuração da arquitetura back-end com .NET Core  
 ⬜️ Criando um APP simples de cadastro de séries em .NET  
-⬜️ Desafios Iniciais C# - Unimed BH  
+✅ Desafios Iniciais C# - Unimed BH  
