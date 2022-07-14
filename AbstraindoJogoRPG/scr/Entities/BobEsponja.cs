@@ -12,9 +12,9 @@ namespace AbstraindoJogoRPG.scr.Entities
         public string Attack(int Bonus){
 
             if (Bonus > 3) {
-                return $"{this.Name}: - Estoooou prooonto!";
+                return $"- Estoooou prooonto! ({this.Name})";
             } else {
-                return $"{this.Name}: - Ahhhh, que choque estou levando!";
+                return $"- Ahhhh, que choque estou levando! ({this.Name})";
             }                     
         } 
     }

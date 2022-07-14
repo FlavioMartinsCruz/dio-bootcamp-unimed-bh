@@ -17,9 +17,9 @@ namespace AbstraindoJogoRPG.scr.Entities
         public string Attack(int Bonus){
 
             if (Bonus > 3) {
-                return $"{this.Name}: - Ei, água-viva! Tome isto!";
+                return $"- Ei, água-viva! Tome isto! ({this.Name})";
             } else {
-                return $"{this.Name}: - Ah, não! peguei uma água-viva, mas ela está me carregando para longe.";
+                return $"- Ah, não! Peguei uma água-viva, mas ela está me carregando para longe. ({this.Name})";
             }                     
         } 
     }

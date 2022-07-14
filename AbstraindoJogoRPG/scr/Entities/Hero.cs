@@ -19,7 +19,7 @@ namespace AbstraindoJogoRPG.scr.Entities
       }
 
       public virtual string Attack(){
-        return $"{this.Name}, que possui inteligência {Intelligence} e agilidade {Agility}, atacou com a sua {this.Gun}";
+        return $"{this.Name}, que possui inteligência {Intelligence} e agilidade {Agility}, atacou com a sua {this.Gun}.";
       }
     }
 }
