@@ -19,7 +19,7 @@ ___
 
 ✅ Como criar um front-end de um e-commerce utilizando Angular
 
-⬜ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
+✅ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
 
 ⬜ Criando um app simples de cadastro de séries em .NET  
 
