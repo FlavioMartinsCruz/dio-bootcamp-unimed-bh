@@ -54,7 +54,7 @@
 ✅ Tratamento de Erro em C# com Exceptions  
 ✅ Trabalhando com Arquivos e Streams em C#  
 ✅ Programando com Orientação a Objeto com C#  
-⬜️ Construtores, Propriedades, Delegates e Eventos em .NET  
+✅ Construtores, Propriedades, Delegates e Eventos em .NET  
 ✅ Introdução a Clean Code e SOLID com .NET e C#  
 ⬜️ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#  
 ✅ Conhecendo os Principais Protocolos de Comunicação da Internet  
