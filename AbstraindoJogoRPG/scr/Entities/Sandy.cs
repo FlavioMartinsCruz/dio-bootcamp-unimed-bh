@@ -14,9 +14,9 @@ namespace AbstraindoJogoRPG.scr.Entities
             this.Gun = Gun;
             this.Agility = Agility;
         }
-        public string Attack(int Bonus){
+        public string Attack(int ForcaAtaque){
 
-            if (Bonus > 2) {
+            if (ForcaAtaque > 2) {
                 return $"- Tome isto, água-viva! E mais isto! ({this.Name})";
             } else {
                 return $"- Todas águas-vivas estão me perseguindo! Ainda bem que minha roupa me protege contra os choques. ({this.Name})";

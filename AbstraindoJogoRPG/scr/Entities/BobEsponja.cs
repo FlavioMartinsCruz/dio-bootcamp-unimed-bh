@@ -9,9 +9,9 @@ namespace AbstraindoJogoRPG.scr.Entities
             this.Gun = Gun;
             this.Agility = Agility;
         }
-        public string Attack(int Bonus){
+        public string Attack(int ForcaAtaque){
 
-            if (Bonus > 3) {
+            if (ForcaAtaque > 3) {
                 return $"- Estoooou prooonto! ({this.Name})";
             } else {
                 return $"- Ahhhh, que choque estou levando! ({this.Name})";
