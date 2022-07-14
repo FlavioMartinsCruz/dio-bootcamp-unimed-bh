@@ -1,0 +1,15 @@
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.exe
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.deps.json
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.runtimeconfig.json
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.dll
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.pdb
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.csproj.AssemblyReference.cache
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.AssemblyInfoInputs.cache
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.AssemblyInfo.cs
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.csproj.CoreCompileInputs.cache
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.dll
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\refint\AbstraindoJogoRPG.dll
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.pdb
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.genruntimeconfig.cache
+F:\Users\GIO\Documents\Cursos\Bootcamps\Unimed-BH\dio-bootcamp-unimed-bh\AbstraindoJogoRPG\obj\Debug\net6.0\ref\AbstraindoJogoRPG.dll
