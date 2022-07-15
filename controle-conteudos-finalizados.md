@@ -58,7 +58,7 @@
 ✅ Introdução a Clean Code e SOLID com .NET e C#  
 ✅ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#  
 ✅ Conhecendo os Principais Protocolos de Comunicação da Internet  
-⬜️ Desenvolvimento de aplicações com .NET  
+✅ Desenvolvimento de aplicações com .NET  
 ⬜️ Configuração da arquitetura back-end com .NET Core  
 ⬜️ Criando um APP simples de cadastro de séries em .NET  
 ✅ Desafios Iniciais C# - Unimed BH  
