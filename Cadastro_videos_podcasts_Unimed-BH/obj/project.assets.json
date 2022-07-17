@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\Aulas\\.NET\\Criando um APP simples de cadastro de séries em .NET\\Catalogo_Unimed-BH\\CatalogoUnimedBH.csproj",
+      "projectUniqueName": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\dio-bootcamp-unimed-bh\\Cadastro_videos_podcasts_Unimed-BH\\CatalogoUnimedBH.csproj",
       "projectName": "CatalogoUnimedBH",
-      "projectPath": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\Aulas\\.NET\\Criando um APP simples de cadastro de séries em .NET\\Catalogo_Unimed-BH\\CatalogoUnimedBH.csproj",
+      "projectPath": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\dio-bootcamp-unimed-bh\\Cadastro_videos_podcasts_Unimed-BH\\CatalogoUnimedBH.csproj",
       "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\Aulas\\.NET\\Criando um APP simples de cadastro de séries em .NET\\Catalogo_Unimed-BH\\obj\\",
+      "outputPath": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\dio-bootcamp-unimed-bh\\Cadastro_videos_podcasts_Unimed-BH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

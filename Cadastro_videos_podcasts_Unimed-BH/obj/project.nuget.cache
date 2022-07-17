@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBGUFKU2lTQelrL9MD4KdJ4g3/rUZgVl+vJ5zyRrI5GMyA9GSbukTt+ctBy/JgyghbB46ybXk7XKhwSmm2pEjg==",
+  "dgSpecHash": "uBB73v0LmjECWpRwgh1NBDPwEwciG8Q1XNWoSo5iosBMQVRsXsCzmMJtTWCY5lqAY7cvDda4KYtsTVS1petXNw==",
   "success": true,
-  "projectFilePath": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\Aulas\\.NET\\Criando um APP simples de cadastro de séries em .NET\\Catalogo_Unimed-BH\\CatalogoUnimedBH.csproj",
+  "projectFilePath": "F:\\Users\\GIO\\Documents\\Cursos\\Bootcamps\\Unimed-BH\\dio-bootcamp-unimed-bh\\Cadastro_videos_podcasts_Unimed-BH\\CatalogoUnimedBH.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
