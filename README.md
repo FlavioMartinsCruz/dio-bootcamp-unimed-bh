@@ -21,7 +21,7 @@ ___
 
 ✅ Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
 
-⬜ Criando um app simples de cadastro de séries em .NET  
+✅ Criando um app simples de cadastro de séries em .NET  
 
 ___
 
