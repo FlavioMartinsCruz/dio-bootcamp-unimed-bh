@@ -4,7 +4,7 @@
 
 # Bootcamp Geração Tech Unimed-BH | Fullstack
   
-#####Bootcamp concluído no dia 16/07/2021, conforme este [certificado](https://www.dio.me/certificate/B18EFB8A/share).  
+**Bootcamp concluído no dia 16/07/2021, conforme este [certificado](https://www.dio.me/certificate/B18EFB8A/share).**  
   
 ___   
 O bootcamp ofertado formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET.  
